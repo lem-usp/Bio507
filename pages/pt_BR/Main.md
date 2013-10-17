@@ -2,6 +2,13 @@ template: page.html
 
 # Aula 2
 
+### Leitura
+
+Leia o artigo [The Ecological Significance of
+Correlation Pleiades](http://www.jstor.org/stable/2405824)
+
+### Roteiro prático
+
 Em anexo está a [base de dados](/bio507/static/dados.csv) (no Excel)
 a ser analisada ao longo do curso, composta de quatro medidas, nessa
 ordem: comprimento do úmero, comprimento da ulna, comprimento do
@@ -19,11 +26,13 @@ serem apresentadas em forma de tabelas e gráficos:
 Com as respostas dos itens acima, elaborar um breve texto comparando
 (qualitativamente) as espécies segundo essas estatísticas.
 
-Leia o artigo [The Ecological Significance of
-Correlation Pleiades](http://www.jstor.org/stable/2405824)
+### Tarefas
 
 Compile as análises pedidas acima em um arquivo, junto com eventuais
 gráficos, e utilize o seguinte [formulário](http://goo.gl/hCbBHZ) para
 responder perguntas sobre o artigo e enviar o arquivo de respostas de
 aula prática.
 
+#Material de apoio
+
+[Apostila teórica](https://github.com/lem-usp/apostila-bio-evol/blob/master/apostila-Bio507.pdf?raw=true)
