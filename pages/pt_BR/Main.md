@@ -39,9 +39,9 @@ aula prática.
 
 #Contatos
 
-[Gabriel Marroig](gmarroig@gmail.com)
+<A HREF="mailto:&#103;&#109;&#097;&#114;&#114;&#111;&#105;&#103;&#064;&#103;&#109;&#097;&#105;&#108;&#046;&#099;&#111;&#109;">Gabriel Marroig </A>
 
-Monitora Integral: [Monique](monique.nouailhetas@gmail.com)
+Monitora Integral: <A HREF="mailto:&#109;&#111;&#110;&#105;&#113;&#117;&#101;&#046;&#110;&#111;&#117;&#097;&#105;&#108;&#104;&#101;&#116;&#097;&#115;&#064;&#103;&#109;&#097;&#105;&#108;&#046;&#099;&#111;&#109;&#032;">Monique</A>
 
-Monitor Noturno: [Diog(r)o](diogro@gmail.com)
+Monitor Noturno: <A HREF="mailto:&#100;&#105;&#111;&#103;&#114;&#111;&#064;&#103;&#109;&#097;&#105;&#108;&#046;&#099;&#111;&#109;">Diog(r)o </A>
 
