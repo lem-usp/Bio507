@@ -36,3 +36,12 @@ aula prática.
 #Material de apoio
 
 [Apostila teórica](https://github.com/lem-usp/apostila-bio-evol/blob/master/apostila-Bio507.pdf?raw=true)
+
+#Contatos
+
+[Gabriel Marroig](gmarroig@gmail.com)
+
+Monitora Integral: [Monique](monique.nouailhetas@gmail.com)
+
+Monitor Noturno: [Diog(r)o](diogro@gmail.com)
+
