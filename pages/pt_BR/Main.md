@@ -29,8 +29,8 @@ Com as respostas dos itens acima, elaborar um breve texto comparando
 ### Tarefas
 
 Compile as análises pedidas acima em um arquivo, junto com eventuais
-gráficos, e utilize o seguinte [formulário](http://goo.gl/hCbBHZ) para
-responder perguntas sobre o artigo e enviar o arquivo de respostas de
+gráficos, e utilize o seguinte [formulário](https://docs.google.com/forms/d/1fVCLIK8DTiR5GswDtbHooH0h_5a5yxkoqwQVhhCAUgU/viewform) para
+responder perguntas sobre o artigo, e o email do seu monitor responsável para enviar o arquivo de respostas de
 aula prática.
 
 #Material de apoio
