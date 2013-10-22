@@ -1,6 +1,23 @@
 template: page.html
 
-# Aula 2
+## Aula 3
+
+### Leitura
+
+Leia o artigo [The Evolution of Modularity in the
+Mammalian Skull I: Morphological Integration Patterns and
+Magnitudes](http://link.springer.com/article/10.1007%2Fs11692-008-9038-3) ([pdf](/bio507/static/Porto-2009.pdf))
+
+A verificação de leitura desse artigo será apenas para o dia 31/10. Assim que formulário estiver disponível ele será divulgado aqui.
+
+###Roteiro Prático
+
+Essa semana não teremos roteiro prático. Mesmo com o fim da greve, a
+aula do dia 24/10 será utilizada para plantão de dúvidas, a ser
+realizado no laboratório de evolução de mamíferos, prédio do minas,
+andar do estacionamento, interfone 3.
+
+## Aula 2
 
 ### Leitura
 
@@ -33,11 +50,11 @@ gráficos, e utilize o seguinte [formulário](https://docs.google.com/forms/d/1f
 responder perguntas sobre o artigo, e o email do seu monitor responsável para enviar o arquivo de respostas de
 aula prática.
 
-#Material de apoio
+##Material de apoio
 
 [Apostila teórica](https://github.com/lem-usp/apostila-bio-evol/blob/master/apostila-Bio507.pdf?raw=true)
 
-#Contatos
+##Contatos
 
 <A HREF="mailto:&#103;&#109;&#097;&#114;&#114;&#111;&#105;&#103;&#064;&#103;&#109;&#097;&#105;&#108;&#046;&#099;&#111;&#109;">Gabriel Marroig </A>
 
