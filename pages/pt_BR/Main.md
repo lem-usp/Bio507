@@ -13,7 +13,7 @@ A verificação de leitura desse artigo será em aula, no dia 07/11.
 
 ###Roteiro Prático
 
-A filogenia propostas para as espécies é: (E,((C, B), (A, D)))
+A filogenia proposta para nossas espécies é: (E,((C, B), (A, D)))
 
 1. Calcule o $\Delta z$ ao longo da filogenia, usando a diferença entre
 os estados derivados e os estados ancestrais, calculados por uma média
