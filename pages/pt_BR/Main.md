@@ -1,5 +1,23 @@
 template: page.html
 
+##Aula 4
+
+### Leitura
+
+Leia o artigo [Size as a line of least evolutionary resistance:
+Diet and adaptive morphological radiation in New World
+Monkeys](http://onlinelibrary.wiley.com/doi/10.1111/j.0014-3820.2005.tb01049.x/abstract)
+([pdf](/bio507/static/Marroig_Cheverud-2005.pdf))
+
+A verificação de leitura desse artigo será em aula, no dia 07/11.
+
+###Roteiro Prático
+
+1. Calcule o $\Delta \overline z$ ao longo da filogenia, usando a diferença entre
+os estados derivados e os estados ancestrais, calculados por uma média
+ponderada, para todos os ramos.
+2. Calcule a magnitude (norma) dos $\Delta \overline z$ para todos os ramos da filogenia.
+
 ## Aula 3
 
 ### Leitura
@@ -8,7 +26,7 @@ Leia o artigo [The Evolution of Modularity in the
 Mammalian Skull I: Morphological Integration Patterns and
 Magnitudes](http://link.springer.com/article/10.1007%2Fs11692-008-9038-3) ([pdf](/bio507/static/Porto-2009.pdf))
 
-A verificação de leitura desse artigo será apenas para o dia 31/10. Assim que formulário estiver disponível ele será divulgado aqui.
+A verificação de leitura desse artigo será apenas no dia 31/10.
 
 ###Roteiro Prático
 
