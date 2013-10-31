@@ -13,10 +13,10 @@ A verificação de leitura desse artigo será em aula, no dia 07/11.
 
 ###Roteiro Prático
 
-1. Calcule o $\Delta \overline z$ ao longo da filogenia, usando a diferença entre
+1. Calcule o $\Delta z$ ao longo da filogenia, usando a diferença entre
 os estados derivados e os estados ancestrais, calculados por uma média
 ponderada, para todos os ramos.
-2. Calcule a magnitude (norma) dos $\Delta \overline z$ para todos os ramos da filogenia.
+2. Calcule a magnitude (norma) dos $\Delta z$ para todos os ramos da filogenia.
 
 ## Aula 3
 
