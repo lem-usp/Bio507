@@ -1,5 +1,24 @@
 template: page.html
 
+##Aula 5
+
+### Leitura
+
+Leia o artigo [The road to modularity](http://www.nature.com/nrg/journal/v8/n12/abs/nrg2267.html)
+([pdf](/bio507/static/Wagner_etal-2007.pdf))
+
+A verificação de leitura desse artigo será em aula, no dia 14/11
+
+###Roteiro Prático
+
+Passamos agora para o estudo da covariação entre os caracteres e suas
+consequências evolutivas.
+
+1. Calcule as matrizes de covariância entre os caracteres, para cada espécie;
+1. Calcule as matrizes de correlação entre os caracteres, para cada espécie;
+1. Calcule os componentes principais das matrizes de covariância, e
+seus autovalores (variâncias) associadas.
+
 ##Aula 4
 
 ### Leitura
