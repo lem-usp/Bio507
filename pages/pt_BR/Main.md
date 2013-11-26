@@ -1,5 +1,38 @@
 template: page.html
 
+##Aula 8
+
+###Plantão de dúvidas.
+
+Teremos plantão de duvidas a tarde toda no laboratório. Tragam duvidas da monografia final.
+
+##Aula 7
+
+###Roteiro Prático
+
+Reconstruindo vetores de gradiente de seleção.
+
+1. Utilize os $\Delta z$ por ramo e as matrizes ancestrais para reconstruir os $\beta$s por ramo ao longo da filogenia.
+1. Calcule a correlação entre os vetores de resposta ($\Delta z$) e os gradientes de seleção ($\beta$). Esse vetores são alinhados? O que isso significa?
+1. *Opcional* Calcule os gradientes de seleção controlando para ruido
+na estimativa da matriz de covariância. Para isso, decomponha a matriz
+em auto-valores e auto-vetores, substitua o ultimo auto-valor pelo
+penúltimo, e reconstrua a matriz. Utilize essa matriz reconstruída
+para estimar os $\beta$s Leia o artigo [Modularity, noise, and natural
+selection](http://onlinelibrary.wiley.com/doi/10.1111/j.1558-5646.2011.0
+1555.x/abstract)([pdf](Marroig_Melo_Garcia-2012.pdf))
+
+##Aula 6
+
+###Roteiro Prático
+
+Reconstruindo matrizes ancestrais.
+
+1. Calcule as matrizes ancestrais, fazendo a média ponderada pela amostra das matrizes atuais.
+1. Calcule os auto-vetores das matrizes ancestrais e compare os $\Delta
+z$ por ramo com o primeiro e segundo componente principal (auto-vetor)
+da matriz do nó ancestral correspondente, utilizando correlação de vetores.
+
 ##Aula 5
 
 ### Leitura
