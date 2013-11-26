@@ -4,7 +4,7 @@ template: page.html
 
 ###Plantão de dúvidas.
 
-Teremos plantão de duvidas a tarde toda no laboratório. Tragam duvidas da monografia final.
+Teremos plantão de dúvidas a tarde toda no laboratório. Tragam duvidas da monografia final.
 
 ##Aula 7
 
@@ -20,7 +20,7 @@ em auto-valores e auto-vetores, substitua o ultimo auto-valor pelo
 penúltimo, e reconstrua a matriz. Utilize essa matriz reconstruída
 para estimar os $\beta$s Leia o artigo [Modularity, noise, and natural
 selection](http://onlinelibrary.wiley.com/doi/10.1111/j.1558-5646.2011.0
-1555.x/abstract)([pdf](Marroig_Melo_Garcia-2012.pdf))
+1555.x/abstract)([pdf](/static/Marroig_Melo_Garcia-2012.pdf))
 
 ##Aula 6
 
